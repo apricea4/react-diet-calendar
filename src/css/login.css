@@ -1,0 +1,9 @@
+.login-text-box {
+  width: 250px;
+  height: 50px;
+}
+.email-buffer {
+  margin-top: 50%;
+  margin-bottom: "5px";
+  position: relative;
+}
