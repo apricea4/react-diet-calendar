@@ -5,7 +5,7 @@ import Login from "./components/login";
 class App extends Component {
   render() {
     return (
-      <div id="login-div" className="login-div-main">
+      <div id="login-div">
         <Login />
       </div>
     );

@@ -1,9 +1,52 @@
 .login-text-box {
   width: 250px;
   height: 50px;
+  border-radius: 15px;
 }
 .email-buffer {
-  margin-top: 50%;
-  margin-bottom: "5px";
+  margin: 0 auto;
+  margin-bottom: 10px;
   position: relative;
+  border-radius: 5px;
+  width: 250px;
+}
+.password-box {
+  border-radius: 5px;
+  width: 250px;
+  height: 30px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+.login-divs {
+  position: relative;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.btn-login-div {
+  margin-top: 10px;
+}
+.btn-login {
+  width: 250px;
+}
+#main-login-div {
+  margin: 0 auto;
+  margin-top: 100px;
+  position: absolute;
+  margin-left: 42%;
+}
+.secondary-login-div {
+  margin: 0 auto;
+}
+/*.login-banner {
+  height: 50px;
+  width: 50px;
+  width: 100%;
+  background-color: #98999b;
+}*/
+.logo-img {
+  height: 200px;
+  width: 200px;
+  margin-top: -50px;
+  margin-left: 25px;
+  background-color: transparent;
 }
