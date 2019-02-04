@@ -77,5 +77,4 @@ class login extends React.Component {
     );
   }
 }
-
 export default login;
